@@ -2520,8 +2520,8 @@ MonoBehaviour:
   CanvasTriggers:
   - {fileID: 2003618876}
   - {fileID: 997735351}
-  reversed: 0
-  startPoint: {fileID: 1509415983}
+  reversed: 1
+  startPoint: {fileID: 1809029877}
   xrRig: {fileID: 1526223056}
 --- !u!4 &617509130
 Transform:
@@ -2924,7 +2924,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1807791822870148086, guid: f3e70e235fff7fe458caf9f588c8263b, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3250697434890618153, guid: f3e70e235fff7fe458caf9f588c8263b, type: 3}
       propertyPath: m_RootOrder
@@ -6248,7 +6248,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1526223056}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e507230555035454fac7b63609de85c8, type: 3}
   m_Name: 
@@ -6628,7 +6628,7 @@ MonoBehaviour:
   bodyTracker: {fileID: 1005976645}
   moveSpeed: 4
   labStartPos: {fileID: 1755904005}
-  desiredHeight: 1.12
+  desiredHeight: 1.09
   startPos: {fileID: 1809029877}
 --- !u!138 &1557284410
 FixedJoint:
@@ -7721,7 +7721,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1809029876}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 348.1, y: 108.3, z: 558}
+  m_LocalPosition: {x: 348.1, y: 105.184, z: 558}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
